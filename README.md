@@ -2,7 +2,7 @@
 The notebook OpenCV_BaseCommandsTutorial.ipynb wants to be a simple list of commands with examples for those who have never used the library before.
 
 ## Project Overview
-The notebook will guide you through building filters, convolute those with images and visualizing the results.
+The notebook will guide you through building filters, convoluting those with images and visualizing the results.
 At the end of the notebook, you will have chance to use the Canny Edge Detector together with Hough Lines to draw a rough boundary of a cat on a white background.
 
 ## Project Instructions
